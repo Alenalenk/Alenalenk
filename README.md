@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 
+[![codewars](https://www.codewars.com/users/Alenalenk/badges/small)](https://www.codewars.com/users/Alenalenk) 
 
-https://www.codewars.com/users/Alenalenk/badges/small
 <!--
 **Alenalenk/Alenalenk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
