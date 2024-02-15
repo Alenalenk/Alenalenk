@@ -4,9 +4,9 @@
 
 
 <h1 align="center">Hi 👋, I'm Olena</h1>
-<h3 align="center">A frontend developer from Ukraine</h3>
 
-- 📫 How to reach me **alena.lenkevich@gmail.com**
+
+
 
 
 <p align="left">
@@ -18,16 +18,11 @@
 
 
 
-<h3 align="left">Certifications:</h3>
-
-
-|:------------- |:---------------:| -------------:|
-| Row 1         | Cell 2          | Cell 3        |
-| Row 2         | Cell 5          | Cell 6        |
-| Row 3         | Cell 8          | Cell 9        |
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenalenk&show_icons=true&locale=en&layout=compact" alt="alenalenk" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alenalenk&show_icons=true&locale=en" alt="alenalenk" /></p>
 
 [![codewars](https://www.codewars.com/users/Alenalenk/badges/small)](https://www.codewars.com/users/Alenalenk) 
+
+
