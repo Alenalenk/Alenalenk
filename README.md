@@ -17,11 +17,11 @@
 
  
 
-**Що я для цього використовую?
-**
+<b>Що я для цього використовую?</b>
+
 - html; 
 
--css: технології grid, flexbox, animation та ін.; 
+- css: технології grid, flexbox, animation та ін.; 
 
 - JavaScript; 
 
