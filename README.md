@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Olena</h1>
+<--! <h1 align="center">Hi 👋, I'm Olena</h1>
 
 Я займаюся front-end розробкою сайтів
 
@@ -26,7 +26,7 @@
 - figma та photoshop;
 
 - редактор VSCode;
-
+-->
 
 
 
