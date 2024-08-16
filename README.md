@@ -26,11 +26,11 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alenalenk&show_icons=true&locale=en&layout=compact" alt="alenalenk" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alenalenk&show_icons=true&locale=en" alt="alenalenk" /></p>
+
 
 [![codewars](https://www.codewars.com/users/Alenalenk/badges/small)](https://www.codewars.com/users/Alenalenk) 
 [![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OlenaLen)]
 
-<img src="https://myreadme.vercel.app/api/embed/YOURUSERNAME?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://myreadme.vercel.app/api/embed/Alenalenk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 
