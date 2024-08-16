@@ -29,7 +29,7 @@
 
 
 [![codewars](https://www.codewars.com/users/Alenalenk/badges/small)](https://www.codewars.com/users/Alenalenk) 
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=OlenaLen)]
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/?username=OlenaLen)](https://github.com/Alenalenk/leetcode-stats)
 
 <img src="https://myreadme.vercel.app/api/embed/Alenalenk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
