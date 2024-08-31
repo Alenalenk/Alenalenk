@@ -23,7 +23,7 @@
 <br/>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Alenalenk&show_icons=true&theme=transparent"/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alenalenk)](https://github.com/Alenalenk/github-readme-stats)
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Alenalenk&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark" alt="ovi" />
 
 
 
