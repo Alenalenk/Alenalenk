@@ -22,6 +22,6 @@
 <br/>
 <br/>
 
-<img src="https://myreadme.vercel.app/api/embed/Alenalenk?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<img src="https://github-readme-stats.vercel.app/api?username=Alenalenk&show_icons=true&theme=transparent"/>
 
 
