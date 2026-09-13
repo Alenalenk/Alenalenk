@@ -1,15 +1,14 @@
  <h1 align="center">Hi 👋, I'm Olena</h1>
-
-
+ 
 <h3 align="left">Skills</h3>
-✅ Typescript, JavaScript (ES2015–2019) <br/>
-✅ React, Redux <br/>
-✅ HTML5, CSS3, Sass (SCSS), BEM<br/>
-✅ Node, Express<br/>
-✅ Fetch, AJAX, REST API, SQL<br/>
-✅ Photoshop, Figma, Visual Studio Code<br/>
-✅ Git/GitHub, VS Code, Chrome Developer Tools (incl. React), NPM, Webpack, Gulp<br/>
-✅ WordPress<br/>
+✅ Languages: TypeScript, JavaScript (ES6+), Python <br/>
+✅ Frontend: React, Next, Redux, HTML5, CSS3, Sass (SCSS) <br/>
+✅ Backend: Node.js (Express), FastAPI<br/>
+✅ Databases: PostgreSQL, SQL<br/>
+✅  Tools: Git, GitHub, GitLab, VS Code, Chrome DevTools, NPM, pip, Vite <br/>
+✅ API: REST, Fetch, axios<br/>
+✅ Design: Figma, Photoshop<br/>
+✅ DevOps: Docker<br/>
 <br/>
 <br/>
 <br/>
